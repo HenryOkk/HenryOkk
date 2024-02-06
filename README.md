@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Henry!<br>🚀 I'm a software engineer passionate about web development.<br>🌱 I'm constantly learning and exploring new technologies and tools to enhance my skills.<br>📫 You can reach me at [Your Contact Information].<br>
+👋 Hi there, I'm Henry!<br>🚀 I'm a software engineer passionate about web development.<br>🌱 I'm constantly learning and exploring new technologies and tools to enhance my skills.<br>
 
 
 ## 🌐 Socials:
